@@ -1,0 +1,20 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html",
+  "/Register": "pages/Register.html",
+  "/api/axios": "pages/api/axios.js",
+  "/Login": "pages/Login.html",
+  "/": "pages/index.html",
+  "/page/Oil_Price": "pages/page/Oil_Price.html",
+  "/page/Review": "pages/page/Review.html",
+  "/page/User": "pages/page/User.html",
+  "/page/test": "pages/page/test.html",
+  "/page/Table": "pages/page/Table.html",
+  "/src/component/Footter": "pages/src/component/Footter.html",
+  "/src/component/Layout": "pages/src/component/Layout.html",
+  "/src/component/Menu_Navbar": "pages/src/component/Menu_Navbar.html",
+  "/src/component/Navbar": "pages/src/component/Navbar.html",
+  "/src/element/Post_edit": "pages/src/element/Post_edit.html"
+}
