@@ -16,7 +16,7 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.5",
     "next": "13.3.0",
-    "node": "16.x",
+    "node": "16.18.1",
     "postcss": "8.4.23",
     "react": "18.2.0",
     "react-dom": "18.2.0",
